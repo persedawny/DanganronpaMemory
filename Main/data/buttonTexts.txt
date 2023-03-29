@@ -1,0 +1,9 @@
+1 player
+2 players
+VS. A.I.
+Easy
+Medium
+Hard
+Play
+Quit
+Back to menu
